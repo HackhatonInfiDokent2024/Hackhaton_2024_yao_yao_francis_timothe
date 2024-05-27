@@ -1,0 +1,15 @@
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\bin\Debug\net8.0\ProjectWorkflow.Logic.deps.json
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\bin\Debug\net8.0\ProjectWorkflow.Logic.dll
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\bin\Debug\net8.0\ProjectWorkflow.Logic.pdb
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\bin\Debug\net8.0\ProjectWorkflow.DataAccess.dll
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\bin\Debug\net8.0\ProjectWorkflow.DataAccess.pdb
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectWorkflow.Logic.csproj.AssemblyReference.cache
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectWorkflow.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectWorkflow.Logic.AssemblyInfoInputs.cache
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectWorkflow.Logic.AssemblyInfo.cs
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectWorkflow.Logic.csproj.CoreCompileInputs.cache
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectW.158A145B.Up2Date
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectWorkflow.Logic.dll
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\refint\ProjectWorkflow.Logic.dll
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ProjectWorkflow.Logic.pdb
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.Logic\obj\Debug\net8.0\ref\ProjectWorkflow.Logic.dll

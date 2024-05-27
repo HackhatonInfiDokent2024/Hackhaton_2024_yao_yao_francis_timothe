@@ -1,0 +1,12 @@
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\bin\Debug\net8.0\ProjectWorkflow.DataAccess.deps.json
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\bin\Debug\net8.0\ProjectWorkflow.DataAccess.dll
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\bin\Debug\net8.0\ProjectWorkflow.DataAccess.pdb
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ProjectWorkflow.DataAccess.csproj.AssemblyReference.cache
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ProjectWorkflow.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ProjectWorkflow.DataAccess.AssemblyInfoInputs.cache
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ProjectWorkflow.DataAccess.AssemblyInfo.cs
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ProjectWorkflow.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ProjectWorkflow.DataAccess.dll
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\refint\ProjectWorkflow.DataAccess.dll
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ProjectWorkflow.DataAccess.pdb
+C:\Users\INFI-7\Desktop\INFI-HACKATHON\ProjectWorklow.DataAccess\obj\Debug\net8.0\ref\ProjectWorkflow.DataAccess.dll
